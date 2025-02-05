@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aunpeerzada
-- 👀 I’m interested in Data Analytics
-- 💞️ I’m looking to collaborate on Analytics Projects.
+- 👀 Data Analyst with over 2.5 Years of Experience.
 - 📫 How to reach me: aunpeerzada@yahoo.com
 
 <!---

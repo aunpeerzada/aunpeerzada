@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aunpeerzada
-- 👀 Data Analyst with over 2.5 Years of Experience.
+- 👀 Data Analyst with 3 Years of Experience with expertise in SQL,Power BI,Advanced Excel and Python.
 - 📫 How to reach me: aunpeerzada@yahoo.com
 
 <!---
